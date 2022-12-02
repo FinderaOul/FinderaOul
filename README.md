@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FinderaOul
 - 👀 I’m interested in ... blockchain
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...java,sql,springboot
 - 💞️ I’m looking to collaborate on ...nobody
 - 📫 How to reach me ... davidwarner8751@gmail.com
 
